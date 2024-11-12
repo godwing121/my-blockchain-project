@@ -12,7 +12,6 @@ This project is a simplified DeFi Kingdom clone on Avalanche, allowing players t
   - [Vault](#vault)
 - [Deployment Steps](#deployment-steps)
 - [Testing](#testing)
-- [Submission Requirements](#submission-requirements)
 
 ## Introduction
 
