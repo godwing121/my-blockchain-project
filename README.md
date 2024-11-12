@@ -147,4 +147,8 @@ Use Remix to interact with deployed contracts by:
 - Minting tokens in the ERC20 contract.
 - Depositing and withdrawing tokens in the Vault contract to test shares and balances.
 
+ ## Contact 
+Godwin 
+sagayamgodwin19@gmail.com
+
 This README provides a comprehensive guide for deploying and testing ERC20 and Vault contracts on an Avalanche subnet, essential for a DeFi Kingdom-style project on Avalanche.
